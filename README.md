@@ -1,2 +1,2 @@
-# hello-world2
-My Second Repository
+# hello-world
+I am Solomon and this is my first day on GitHub
