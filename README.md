@@ -1,2 +1,2 @@
 # hello-world
-I am Solomon and this is my first day on GitHub
+I am Solomon and this is my second tutorial on Github. Hopefully, this experience will be fun.
